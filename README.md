@@ -62,4 +62,4 @@ Notes Guide Agent is a multi-agent AI system designed to help users manage notes
 
 ## Google Cloud Run (Live Hosting)
 
-https://notes-guide-615185172369.europe-west1.run.app/dev-ui/?app=notes_guide_agent&session=91355702-35cf-4375-8cc5-e2f5165cf514
+https://notes-guide-615185172369.europe-west1.run.app/
